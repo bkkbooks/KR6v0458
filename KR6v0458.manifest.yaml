@@ -1,0 +1,1138 @@
+canonical_identifier: bkk:krp/KR6v0458/v1
+canonical_location: https://kanripo.org/bkk/KR6v0458/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 摩訶婆羅多的故事
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B36/B36n0197.xml
+    old_id: B36n0197
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0458_001.yaml, hash: 'sha256:b2d38d6abf8d149fa5a7f82d984ce45fbd9379decbc542b141e4a4244066ee23'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0458_001.markers.yaml, hash: 'sha256:b6091e32269a3696cb2837d8b8c2ba3196baaa9e3717ab0718c26333c73a486d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 185323
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 內容提要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-2
+    span:
+    - body
+    - 320
+    - 320
+  label: 關於印度大史詩《摩訶婆羅多》
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-3
+    span:
+    - body
+    - 8332
+    - 8332
+  label: 原書目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-4
+    span:
+    - body
+    - 8819
+    - 8819
+  label: 緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-5
+    span:
+    - body
+    - 10384
+    - 10384
+  label: 1.天誓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-6
+    span:
+    - body
+    - 12172
+    - 12172
+  label: 2.毗濕摩的誓言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-7
+    span:
+    - body
+    - 13639
+    - 13639
+  label: 3.安巴和毗濕摩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-8
+    span:
+    - body
+    - 15752
+    - 15752
+  label: 4.天乘和雲發
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-9
+    span:
+    - body
+    - 18040
+    - 18040
+  label: 5.天乘的婚事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-10
+    span:
+    - body
+    - 20692
+    - 20692
+  label: 6.迅行王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-11
+    span:
+    - body
+    - 21989
+    - 21989
+  label: 7.維杜羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-12
+    span:
+    - body
+    - 23101
+    - 23101
+  label: 8.貢蒂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-13
+    span:
+    - body
+    - 24070
+    - 24070
+  label: 9.般度王的死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-14
+    span:
+    - body
+    - 24803
+    - 24803
+  label: 10.怖軍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-15
+    span:
+    - body
+    - 25738
+    - 25738
+  label: 11.迦爾納
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-16
+    span:
+    - body
+    - 27975
+    - 27975
+  label: 12.德羅納
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-17
+    span:
+    - body
+    - 29680
+    - 29680
+  label: 13.蠟宮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-18
+    span:
+    - body
+    - 31395
+    - 31395
+  label: 14.般度族的逃亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-19
+    span:
+    - body
+    - 33388
+    - 33388
+  label: 15.誅鉢迦怪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-20
+    span:
+    - body
+    - 36777
+    - 36777
+  label: 16.黑公主選婿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-21
+    span:
+    - body
+    - 39225
+    - 39225
+  label: 17.天帝城
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-22
+    span:
+    - body
+    - 41848
+    - 41848
+  label: 18.花斑鳥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-23
+    span:
+    - body
+    - 43666
+    - 43666
+  label: 19.妖連
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-24
+    span:
+    - body
+    - 45036
+    - 45036
+  label: 20.誅妖連
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-25
+    span:
+    - body
+    - 46644
+    - 46644
+  label: 21.首座客人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-26
+    span:
+    - body
+    - 48148
+    - 48148
+  label: 22.沙恭尼出主意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-27
+    span:
+    - body
+    - 49694
+    - 49694
+  label: 23.邀賭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-28
+    span:
+    - body
+    - 51264
+    - 51264
+  label: 24.賭注
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-29
+    span:
+    - body
+    - 53622
+    - 53622
+  label: 25.黑公主的受難
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-30
+    span:
+    - body
+    - 56375
+    - 56375
+  label: 26.持國王的不安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-31
+    span:
+    - body
+    - 58411
+    - 58411
+  label: 27.黑天的誓言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-32
+    span:
+    - body
+    - 59640
+    - 59640
+  label: 28.獸主賜的法寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-33
+    span:
+    - body
+    - 61936
+    - 61936
+  label: 29.憂患是古來就有的
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-34
+    span:
+    - body
+    - 63780
+    - 63780
+  label: 30.投山仙人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-35
+    span:
+    - body
+    - 65796
+    - 65796
+  label: 31.鹿角仙人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-36
+    span:
+    - body
+    - 68105
+    - 68105
+  label: 32.無益的修行：谷購的故事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-37
+    span:
+    - body
+    - 69160
+    - 69160
+  label: 33.谷購的結果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-38
+    span:
+    - body
+    - 70527
+    - 70527
+  label: 34.僅僅學問是不夠的
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-39
+    span:
+    - body
+    - 71535
+    - 71535
+  label: 35.八曲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-40
+    span:
+    - body
+    - 72954
+    - 72954
+  label: 36.怖軍和大頷猴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-41
+    span:
+    - body
+    - 75407
+    - 75407
+  label: 37.我不是鸛鳥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-42
+    span:
+    - body
+    - 76660
+    - 76660
+  label: 38.惡人是永遠不會滿足的
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-43
+    span:
+    - body
+    - 77829
+    - 77829
+  label: 39.難敵受辱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-44
+    span:
+    - body
+    - 79103
+    - 79103
+  label: 40.黑天的饑餓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-45
+    span:
+    - body
+    - 80767
+    - 80767
+  label: 41.魔池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-46
+    span:
+    - body
+    - 83961
+    - 83961
+  label: 42.充當侍役
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-47
+    span:
+    - body
+    - 86451
+    - 86451
+  label: 43.誅暴保貞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-48
+    span:
+    - body
+    - 88683
+    - 88683
+  label: 44.保衛摩差國
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-49
+    span:
+    - body
+    - 90695
+    - 90695
+  label: 45.優多羅太子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-50
+    span:
+    - body
+    - 92507
+    - 92507
+  label: 46.放逐期滿了
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-51
+    span:
+    - body
+    - 94823
+    - 94823
+  label: 47.毗羅吒的誤會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-52
+    span:
+    - body
+    - 97028
+    - 97028
+  label: 48.會議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-53
+    span:
+    - body
+    - 99683
+    - 99683
+  label: 49.阿周那的御者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-54
+    span:
+    - body
+    - 100854
+    - 100854
+  label: 50.舅舅和外甥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-55
+    span:
+    - body
+    - 101945
+    - 101945
+  label: 51.弗栗多
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-56
+    span:
+    - body
+    - 103694
+    - 103694
+  label: 52.友鄰王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-57
+    span:
+    - body
+    - 105592
+    - 105592
+  label: 53.使者全勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-58
+    span:
+    - body
+    - 107541
+    - 107541
+  label: 54.針尖大的地方也不給
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-59
+    span:
+    - body
+    - 109005
+    - 109005
+  label: 55.使者黑天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-60
+    span:
+    - body
+    - 111334
+    - 111334
+  label: 56.情誼與責任
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-61
+    span:
+    - body
+    - 113050
+    - 113050
+  label: 57.般度族的大元帥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-62
+    span:
+    - body
+    - 113940
+    - 113940
+  label: 58.俱盧族的大元帥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-63
+    span:
+    - body
+    - 114328
+    - 114328
+  label: 59.大力羅摩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-64
+    span:
+    - body
+    - 114845
+    - 114845
+  label: 60.艷光公主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-65
+    span:
+    - body
+    - 116072
+    - 116072
+  label: 61.不合作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-66
+    span:
+    - body
+    - 117171
+    - 117171
+  label: 62.黑天的教導
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-67
+    span:
+    - body
+    - 118024
+    - 118024
+  label: 63.堅戰王祈求祝福
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-68
+    span:
+    - body
+    - 119186
+    - 119186
+  label: 64.大戰第一天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-69
+    span:
+    - body
+    - 120323
+    - 120323
+  label: 65.第二天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-70
+    span:
+    - body
+    - 121654
+    - 121654
+  label: 66.大戰第三天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-71
+    span:
+    - body
+    - 123288
+    - 123288
+  label: 67.第四天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-72
+    span:
+    - body
+    - 124374
+    - 124374
+  label: 68.第五天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-73
+    span:
+    - body
+    - 125875
+    - 125875
+  label: 69.第六天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-74
+    span:
+    - body
+    - 126933
+    - 126933
+  label: 70.第七天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-75
+    span:
+    - body
+    - 128495
+    - 128495
+  label: 71.第八天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-76
+    span:
+    - body
+    - 129263
+    - 129263
+  label: 72.第九天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-77
+    span:
+    - body
+    - 130324
+    - 130324
+  label: 73.毗濕摩歸天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-78
+    span:
+    - body
+    - 131462
+    - 131462
+  label: 74.迦爾納和老族長
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-79
+    span:
+    - body
+    - 132635
+    - 132635
+  label: 75.德羅納擔任統帥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-80
+    span:
+    - body
+    - 133294
+    - 133294
+  label: 76.活捉堅戰王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-81
+    span:
+    - body
+    - 135023
+    - 135023
+  label: 77.第十二天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-82
+    span:
+    - body
+    - 136837
+    - 136837
+  label: 78.英勇的福授
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-83
+    span:
+    - body
+    - 139395
+    - 139395
+  label: 79.激昂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-84
+    span:
+    - body
+    - 141561
+    - 141561
+  label: 80.激昂陣亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-85
+    span:
+    - body
+    - 142766
+    - 142766
+  label: 81.哭子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-86
+    span:
+    - body
+    - 144487
+    - 144487
+  label: 82.信度國王勝車
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-87
+    span:
+    - body
+    - 146664
+    - 146664
+  label: 83.借甲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-88
+    span:
+    - body
+    - 148454
+    - 148454
+  label: 84.堅戰的憂懼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-89
+    span:
+    - body
+    - 150323
+    - 150323
+  label: 85.堅戰的希望
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-90
+    span:
+    - body
+    - 151496
+    - 151496
+  label: 86.迦爾納和怖軍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-91
+    span:
+    - body
+    - 153264
+    - 153264
+  label: 87.嚴守諾言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-92
+    span:
+    - body
+    - 154959
+    - 154959
+  label: 88.廣聲的結局
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-93
+    span:
+    - body
+    - 157108
+    - 157108
+  label: 89.勝車被殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-94
+    span:
+    - body
+    - 158513
+    - 158513
+  label: 90.德羅納去世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-95
+    span:
+    - body
+    - 160261
+    - 160261
+  label: 91.迦爾納的死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-96
+    span:
+    - body
+    - 162128
+    - 162128
+  label: 92.難敵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-97
+    span:
+    - body
+    - 164302
+    - 164302
+  label: 93.般度五子受責
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-98
+    span:
+    - body
+    - 166709
+    - 166709
+  label: 94.馬勇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-99
+    span:
+    - body
+    - 168544
+    - 168544
+  label: 95.報仇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-100
+    span:
+    - body
+    - 169230
+    - 169230
+  label: 96.誰能安慰？
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-101
+    span:
+    - body
+    - 170943
+    - 170943
+  label: 97.堅戰的懊惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-102
+    span:
+    - body
+    - 172201
+    - 172201
+  label: 98.堅戰心安了
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-103
+    span:
+    - body
+    - 173066
+    - 173066
+  label: 99.妒忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-104
+    span:
+    - body
+    - 174751
+    - 174751
+  label: 100.優騰迦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-105
+    span:
+    - body
+    - 176142
+    - 176142
+  label: 101.一斤小米麵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-106
+    span:
+    - body
+    - 178742
+    - 178742
+  label: 102.堅戰王治國
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-107
+    span:
+    - body
+    - 179473
+    - 179473
+  label: 103.持國王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-108
+    span:
+    - body
+    - 180909
+    - 180909
+  label: 104.三位老人的死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-109
+    span:
+    - body
+    - 181680
+    - 181680
+  label: 105.黑天逝世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0458_B_001-mulu-110
+    span:
+    - body
+    - 182852
+    - 182852
+  label: 106.堅戰受到最後考驗
+  type: mulu
+  level: 1
+hash: sha256:52c490bf63e1802f4958ac84ebf018a6a11b7120c08c6de40960653ffd73b109
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
