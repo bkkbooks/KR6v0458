@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0458_001.yaml, hash: 'sha256:b2d38d6abf8d149fa5a7f82d984ce45fbd9379decbc542b141e4a4244066ee23'}
+  - {seq: 1, filename: KR6v0458_001.yaml, hash: 'sha256:22160c6d8f592cf074ba500994cd63936c279ed564aa21976c999427ed666da4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0458_001.markers.yaml, hash: 'sha256:b6091e32269a3696cb2837d8b8c2ba3196baaa9e3717ab0718c26333c73a486d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0458_001.markers.yaml, hash: 'sha256:7928af0e1f33c184bb7b81c0f8e9ccc1a64407ade3b1e1b621943a3a49200beb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1132,7 +1132,4 @@ table_of_contents:
   label: 106.堅戰受到最後考驗
   type: mulu
   level: 1
-hash: sha256:52c490bf63e1802f4958ac84ebf018a6a11b7120c08c6de40960653ffd73b109
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ba92e2649d1b1986237cb6c1a9136b5d20dc965ef59d145fc54dad7015d28e8
