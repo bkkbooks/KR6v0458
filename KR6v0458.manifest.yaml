@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0458/v1
 canonical_location: https://kanripo.org/bkk/KR6v0458/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 摩訶婆羅多的故事
   source:
@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0458_001.yaml, hash: 'sha256:22160c6d8f592cf074ba500994cd63936c279ed564aa21976c999427ed666da4'}
+  - {seq: 1, filename: KR6v0458_001.yaml, hash: 'sha256:927fb946cd46dcdb7785f631605ba276c001508fe2641ccd51377c1ada0fc4e1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0458_001.markers.yaml, hash: 'sha256:7928af0e1f33c184bb7b81c0f8e9ccc1a64407ade3b1e1b621943a3a49200beb'}
+  - {seq: 1, role: markers, filename: assets/KR6v0458_001.markers.yaml, hash: 'sha256:6328f7eb413c6b2d409149dcd1de9dbc91ac860acad39335d0b247e04b994d47'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1132,4 +1132,7 @@ table_of_contents:
   label: 106.堅戰受到最後考驗
   type: mulu
   level: 1
-hash: sha256:8ba92e2649d1b1986237cb6c1a9136b5d20dc965ef59d145fc54dad7015d28e8
+hash: sha256:0aa91027e5ad7988204fb3de102a24f60b6eb7382c3a965a5b639e3b63643f8e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
